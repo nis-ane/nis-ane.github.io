@@ -7,7 +7,7 @@ importance: 2
 category: academics
 
 ---
-<a href="{{ site.baseurl }}/projects/CG_WS24_Website_Repo/index.html" target="_blank">🔗 View Full Project Website</a> <br>
+<a href="/projects/CG_WS24_Website_Repo_test/index.html" target="_blank">🔗 View Full Project Website</a> <br>
 <a href="https://github.com/nis-ane/CG-Rendering">🔗 View Repository Here</a><br>
 
 <div class="row">
